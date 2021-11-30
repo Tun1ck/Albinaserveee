@@ -1,0 +1,2 @@
+C:\Users\StudentDev\Documents\GitHub\Albinaserveee\Albinaserv\Albina.BuisnessLogic.Core\obj\Debug\Albina.BuisnessLogic.Core.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\GitHub\Albinaserveee\Albinaserv\Albina.BuisnessLogic.Core\obj\Debug\Albina.BuisnessLogic.Core.csproj.CoreCompileInputs.cache
