@@ -3,7 +3,6 @@ using Albina.BuisnessLogic.Core.Models;
 using Albina.DataAccessCore.Interfaces;
 using Albina.DataAccessCore.Models;
 using AutoMapper;
-using Microsoft.EntityFrameworkCore;
 using Shareds.Exceptions;
 using System;
 using System.Collections.Generic;
