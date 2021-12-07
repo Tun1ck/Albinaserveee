@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 
 namespace Albina.BuisnessLogic.Core.Servives
 {
-    class UserService : IUserService
+    public class UserService : IUserService
     {
         private readonly IMapper _mapper;
         private readonly IContext _context;

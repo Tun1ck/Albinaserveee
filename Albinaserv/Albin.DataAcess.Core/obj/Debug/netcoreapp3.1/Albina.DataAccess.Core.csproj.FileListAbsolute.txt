@@ -1,0 +1,4 @@
+C:\Users\StudentDev\Documents\GitHub\Albinaserveee\Albinaserv\Albin.DataAcess.Core\bin\Debug\netcoreapp3.1\Albina.DataAccess.Core.deps.json
+C:\Users\StudentDev\Documents\GitHub\Albinaserveee\Albinaserv\Albin.DataAcess.Core\bin\Debug\netcoreapp3.1\Albina.DataAccess.Core.dll
+C:\Users\StudentDev\Documents\GitHub\Albinaserveee\Albinaserv\Albin.DataAcess.Core\obj\Debug\netcoreapp3.1\Albina.DataAccess.Core.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\GitHub\Albinaserveee\Albinaserv\Albin.DataAcess.Core\obj\Debug\netcoreapp3.1\Albina.DataAccess.Core.AssemblyInfo.cs

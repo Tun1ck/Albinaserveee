@@ -4,12 +4,12 @@ using System.Text;
 
 namespace Shareds.Exceptions
 {
-    
-        class NotFoundExceptions : Exception
-        {
-            public NotFoundExceptions(string message) : base(message)
-            {
 
-            }
+    public class NotFoundExceptions : Exceptions
+    {
+        public NotFoundExceptions(string message) : base(message)
+        {
+
         }
+    }
 }

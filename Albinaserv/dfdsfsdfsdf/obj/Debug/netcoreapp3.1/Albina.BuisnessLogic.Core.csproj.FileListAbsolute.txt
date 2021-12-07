@@ -1,0 +1,4 @@
+C:\Users\StudentDev\Documents\GitHub\Albinaserveee\Albinaserv\dfdsfsdfsdf\bin\Debug\netcoreapp3.1\Albina.DataAccess.Core.dll
+C:\Users\StudentDev\Documents\GitHub\Albinaserveee\Albinaserv\dfdsfsdfsdf\obj\Debug\netcoreapp3.1\Albina.BuisnessLogic.Core.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\GitHub\Albinaserveee\Albinaserv\dfdsfsdfsdf\obj\Debug\netcoreapp3.1\Albina.BuisnessLogic.Core.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\GitHub\Albinaserveee\Albinaserv\dfdsfsdfsdf\obj\Debug\netcoreapp3.1\Albina.BuisnessLogic.Core.csprojAssemblyReference.cache
